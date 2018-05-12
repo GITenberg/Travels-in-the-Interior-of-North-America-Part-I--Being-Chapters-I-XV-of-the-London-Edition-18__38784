@@ -42,6 +42,8 @@ creator:
     gutenberg_agent_id: '33780'
     url: http://www.gutenberg.org/2009/agents/33780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38784#Travels-in-the-Interior-of-North-America-Part-I--Being-Chapters-I-XV-of-the-London-Edition-18_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-02-07'
 gutenberg_type: Text
