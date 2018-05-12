@@ -1,0 +1,63 @@
+_repo: Travels-in-the-Interior-of-North-America-Part-I--Being-Chapters-I-XV-of-the-London-Edition-18__38784
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bodmer, Karl
+    aliases:
+    - Bodmer, Charles
+    - Bodmer, Carl
+    - Bodmer, Johann Carl
+    birthdate: 1809
+    deathdate: 1893
+    gutenberg_agent_id: '44903'
+    url: http://www.gutenberg.org/2009/agents/44903
+  translator:
+    agent_name: Lloyd, Hannibal Evans
+    aliases:
+    - Lloyd, H. E. (Hannibal Evans)
+    - Lloyd, H. Evans (Hannibal Evans)
+    birthdate: 1771
+    deathdate: 1847
+    gutenberg_agent_id: '35390'
+    url: http://www.gutenberg.org/2009/agents/35390
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wied, Maximilian, Prinz von
+    aliases:
+    - Maximilian, Prince of Wied
+    - Wied-Neuwied, Maximilian Alexander Philipp, Prinz von
+    birthdate: 1782
+    deathdate: 1867
+    gutenberg_agent_id: '39650'
+    url: http://www.gutenberg.org/2009/agents/39650
+    wikipedia: http://en.wikipedia.org/wiki/Prince_Maximilian_of_Wied-Neuwied
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 22
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Indians of North America'
+- !lcsh 'Natural history -- United States'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Indians of North America -- Languages'
+title: Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834,
+  part 1
+url: http://www.gutenberg.org/ebooks/38784
